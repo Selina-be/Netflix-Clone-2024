@@ -1,0 +1,10 @@
+{
+  "prettier.arrowParens": "always",
+  "prettier.jsxBracketSameLine": true,  // Keep closing JSX tag on the same line
+  "prettier.bracketSameLine": false,    // Keep brackets on separate line in multi-line JSX
+  "prettier.printWidth": 120,           // Increase print width before wrapping JSX
+  "files.autoSave": "onWindowChange",
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": false,        // Prevent auto-formatting on save
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
